@@ -1,7 +1,6 @@
 # 🦺 Safety Helmet Detection
 
-건설 현장에서 **안전모 미착용 사고 예방**을 목표로, 영상 속 인물의 **헬멧 착용 여부를 자동 감지**하는 Object Detection 프로젝트입니다.  
-Roboflow Public Dataset을 기반으로 **Faster R-CNN**을 전이학습(fine-tuning)하여 YouTube 영상에서 실시간 감지 테스트를 수행했습니다.
+건설 현장에서 **안전모 미착용 사고 예방**을 목표로, 영상 속 인물의 **헬멧 착용 여부를 자동 감지**하는 Object Detection 프로젝트입니다. Roboflow Public Dataset을 기반으로 **Faster R-CNN**을 전이학습(fine-tuning)하여 YouTube 영상에서 실시간 감지 테스트를 수행했습니다.
 
 > **기간:** 2025.10.23 ~ 2025.10.24  
 > **발표 자료:** [object detect - 헬멧착용여부](https://github.com/pythoncide/safety-helmet-detection/blob/main/object%20detect%20-%20%ED%97%AC%EB%A9%A7%EC%B0%A9%EC%9A%A9%EC%97%AC%EB%B6%80.pdf)
@@ -10,8 +9,7 @@ Roboflow Public Dataset을 기반으로 **Faster R-CNN**을 전이학습(fine-tu
 
 ## 🚨 1. 프로젝트 개요
 
-산업 현장에서는 여전히 **안전모 미착용 사고가 다수 발생**하고 있으며, 특히 추락·낙하 사고는 사망 사고의 상당 비중을 차지합니다.  
-기존 CCTV 모니터링은 **사람이 직접 확인해야 하는 한계**가 있어, 이를 자동화할 수 있는 **AI 기반 영상 감지 기술의 수요가 증가**하고 있습니다.
+산업 현장에서는 여전히 **안전모 미착용 사고가 다수 발생**하고 있으며, 특히 추락·낙하 사고는 사망 사고의 상당 비중을 차지합니다. 기존 CCTV 모니터링은 **사람이 직접 확인해야 하는 한계**가 있어, 이를 자동화할 수 있는 **AI 기반 영상 감지 기술의 수요가 증가**하고 있습니다.
 
 **본 프로젝트의 목표**  
 - 영상에서 **헬멧 착용 여부를 자동 감지하는 모델 구현**  
