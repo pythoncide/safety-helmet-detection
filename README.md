@@ -5,6 +5,11 @@
 > **기간:** 2025.10.23 ~ 2025.10.24  
 > **발표 자료:** [object detect - 헬멧착용여부](https://github.com/pythoncide/safety-helmet-detection/blob/main/object%20detect%20-%20%ED%97%AC%EB%A9%A7%EC%B0%A9%EC%9A%A9%EC%97%AC%EB%B6%80.pdf)
 
+### 📌 Files Overview
+- `fasterrcnn_config.py` : Faster R-CNN 학습 및 평가 코드
+- `youtube_detection_universal.py` : 유튜브 영상 실시간 헬멧 감지 추론 코드
+- `iterative_pruning_universal.py` : 모델 경량화를 위한 Structured Pruning 코드
+
 ---
 
 ## 🚨 1. 프로젝트 개요
